@@ -1,0 +1,6 @@
+[submodule "eMotion-Backend"]
+	path = eMotion-Backend
+	url = https://github.com/alucard017/eMotion-Backend.git
+[submodule "eMotion-Frontend"]
+	path = eMotion-Frontend
+	url = https://github.com/alucard017/eMotion-frontend.git
